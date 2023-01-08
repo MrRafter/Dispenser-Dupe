@@ -1,33 +1,5 @@
-name: HispanarkyCore
-version: 1.1.1
-main: me.MrRafter.hispanarky.Main
+name: MrRafter_Dupe
+version: 1.0
+main: me.MrRafter.MrRafter_Dupe.Main
 authors: [ MrRafter ]
-description: Exploit Fixer for Hispanarky
-commands:
-  help:
-    description: Helps you! :)
-    usage: /help
-  discord:
-    description: Displays Discord server
-    usage: /discord
-  toggledeathmsgs:
-    description: Toggles death msgs
-    usage: /toggledeathmsgs
-  togglejoinmsgs:
-    description: Toggles join msgs
-    usage: /togglejoinmsgs
-  kill:
-    description: Kills you
-    usage: /kill
-  hcreload:
-    description: Reload the plugin
-    usage: /hcreload
-    aliases: [hispanarkycorereload]
-  vanish:
-    description: Command to vanish and unvanish yourself.
-    aliases: [v]
-    permission: hispanarkycore.vanish
-    permission-message: You have no permission to do that!
-permissions:
-  hispanarkycore.vanish:
-    description: Allows you to vanish and unvanish yourself.
+description: Dispenser Dupe
